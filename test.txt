@@ -1,1 +1,1 @@
-printf("hello Linux\n");
+printf;
