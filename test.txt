@@ -1,2 +1,2 @@
 printf("hello world\n");
-printf("hello Linux\n");
+printf("hello hello\n");
